@@ -1,2 +1,5 @@
-# zoo_game
-Java project made by Illia Ruban.
+## Zoo Game ##
+A Java-based project made by Illia Ruban
+
+
+
