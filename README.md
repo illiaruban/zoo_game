@@ -43,6 +43,7 @@ The circle of the functions look like that:
 Now we can return to the functions that help to save the data in the txt.file:
 
 -*writeToFile()* -writes all the animals to save them for the next launch.
+
 -*readFromFile()* - reads all the animals from the txt.file when the program launches.
 
 The functions above are also located in the *_Creator_* class, howewer they write/read the whole variety of animals to/from the file.
